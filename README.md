@@ -1,1 +1,1 @@
-This is a dummy hosting folder
+This is a dummy folder
